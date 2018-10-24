@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axe-core": "^3.1.2",
+    "chrome-aws-lambda": "^1.9.1",
+    "puppeteer": "^1.9.0"
+  }
+}

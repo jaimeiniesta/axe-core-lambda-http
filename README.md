@@ -1,6 +1,6 @@
 # Axe-Core-Lambda-HTTP
 
-An AWS lambda function to use axe-core as an HTTP service.
+An AWS lambda function to use axe-core as an HTTP service using Puppeteer.
 
 ## Deployment
 
